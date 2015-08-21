@@ -8,7 +8,7 @@ tab[faviconized="true"] .tab-text-stack * {
 }
 
 .tabbrowser-tabs tab[faviconized="true"][fadein="true"] {
-   min-width: 36px !important;
+   min-width: 52px !important;
    max-width: 52px !important;
 }
 
@@ -20,7 +20,7 @@ tab[faviconized="true"] .tab-text-stack * {
 .tabbrowser-tabs[closebuttons="never"] tab[faviconized="true"][fadein="true"],
 .tabbrowser-tabs[closebuttons="activetab"] tab[faviconized="true"][fadein="true"]:not([selected="true"]),
 .tabbrowser-tabs[favhideclose="true"] tab[faviconized="true"][fadein="true"] {
-   max-width: 36px !important;
+   max-width: 52px !important;
 }
 
 .tabbrowser-tabs[favhideclose="true"] tab[faviconized="true"] .tab-close-button {
